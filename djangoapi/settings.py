@@ -25,7 +25,7 @@ SECRET_KEY = '+*cdzri-=wp^-952u^q*7zqym_!$)8$&r%jp%k0541pc%z-u$m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'obscure-everglades-69408.herokuapp.com']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'djangoapitest.herokuapp.com']
 
 
 # Application definition
